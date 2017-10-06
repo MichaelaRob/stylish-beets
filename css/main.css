@@ -19,9 +19,10 @@ h1, h2, h3, h4 {
   color: #3f1622;
 }
 
-ol {
+nav {
   font-size: 1.25rem;
   color: #8f2440;
+  text-decoration: none;
 }
 
 figcaption {

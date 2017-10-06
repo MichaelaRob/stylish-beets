@@ -8,6 +8,7 @@ html {
 header, h1, h2, h3, h4 {
   font-family: 'PT Sans', sans-serif;
   font-style: bold;
+  text-decoration: none;
 }
 
 img {
@@ -24,9 +25,6 @@ ol {
   color: #8f2440;
 }
 
-nav {
-  text-decoration: none;
-}
 
 figcaption {
   text-size: .8rem;

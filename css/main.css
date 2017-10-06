@@ -1,0 +1,33 @@
+html {
+  line-height: 1.5;
+  background-color: #c9b5ab;
+  font-size: .8rem;
+  color: #222;
+}
+
+h1, h2, h3, h4 {
+  font-size: 1.5rem;
+  color: #3f1622;
+}
+
+ol {
+  font-size: 1.25rem;
+  color: #8f2440;
+}
+
+figcaption {
+  text-size: .8rem;
+}
+
+.days {
+  text-size: 1.25rem;
+}
+
+blockquote {
+  text-size: 1.5rem;
+  font-style: italic;
+}
+
+cite {
+  text-size: .8rem;
+}

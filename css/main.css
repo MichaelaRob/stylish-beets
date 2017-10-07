@@ -3,10 +3,11 @@ html {
   background-color: #c9b5ab;
   font-size: .8rem;
   color: #222;
+  font-weight: normal;
 }
 
 header, h1, h2, h3, h4 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
 }
 
@@ -25,7 +26,6 @@ nav ol li {
   text-decoration: none;
   list-style-type: none;
 }
-
 
 figcaption {
   font-size: .8rem;

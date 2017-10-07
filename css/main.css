@@ -7,7 +7,7 @@ html {
 
 header, h1, h2, h3, h4 {
   font-family: 'PT Sans', sans-serif;
-  font-style: bold;
+  font-weight: bold;
   text-decoration: none;
 }
 

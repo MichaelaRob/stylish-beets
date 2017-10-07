@@ -3,10 +3,9 @@ html {
   background-color: #c9b5ab;
   font-size: .8rem;
   color: #222;
-  font-weight: normal;
 }
 
-h1 {
+h1, h2, h3, h4 {
   font-size: 1.5rem;
   color: #3f1622;
   font-weight: bold;
@@ -53,3 +52,11 @@ blockquote {
 cite {
   font-size: .8rem;
 }
+
+ol li {
+  list-style-type: lower-greek;
+}
+
+
+font-family: 'PT Serif', serif;
+font-family: 'PT Sans', sans-serif;

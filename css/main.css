@@ -27,19 +27,19 @@ ol {
 
 
 figcaption {
-  text-size: .8rem;
+  font-size: .8rem;
   font-style: italic;
 }
 
 .days {
-  text-size: 1.25rem;
+  font-size: 1.25rem;
 }
 
 blockquote {
-  text-size: 1.5rem;
+  font-size: 1.5rem;
   font-style: italic;
 }
 
 cite {
-  text-size: .8rem;
+  font-size: .8rem;
 }

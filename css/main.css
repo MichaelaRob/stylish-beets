@@ -21,16 +21,16 @@ img {
   width: 100%;
 }
 
-nav ol li {
-  font-size: 1.25rem;
-  color: #8f2440;
+a {
   list-style-type: none;
   font-weight: bold;
+  color: #8f2440
 }
 
 figcaption {
   font-size: .8rem;
   font-style: italic;
+  text-align: center;
 }
 
 .days {

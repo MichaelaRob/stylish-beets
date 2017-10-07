@@ -8,7 +8,6 @@ html {
 header, h1, h2, h3, h4 {
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
-  text-decoration: none;
 }
 
 img {
@@ -23,6 +22,7 @@ h1, h2, h3, h4 {
 nav ol {
   font-size: 1.25rem;
   color: #8f2440;
+  text-decoration: none;
 }
 
 

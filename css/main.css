@@ -28,7 +28,7 @@ ol {
 
 figcaption {
   text-size: .8rem;
-  text-style: italic;
+  font-style: italic;
 }
 
 .days {

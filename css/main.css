@@ -6,6 +6,10 @@ html {
   font-weight: normal;
 }
 
+header {
+  font-size: 1.5rem;
+}
+
 header, h1, h2, h3, h4 {
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
@@ -16,15 +20,15 @@ img {
 }
 
 h1, h2, h3, h4 {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   color: #3f1622;
 }
 
 nav ol li {
   font-size: 1.25rem;
   color: #8f2440;
-  text-decoration: none;
   list-style-type: none;
+  font-weight: bold;
 }
 
 figcaption {

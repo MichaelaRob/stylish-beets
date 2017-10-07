@@ -23,6 +23,7 @@ nav ol li {
   font-size: 1.25rem;
   color: #8f2440;
   text-decoration: none;
+  list-style-type: none;
 }
 
 

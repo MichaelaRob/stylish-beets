@@ -6,8 +6,10 @@ html {
   font-weight: normal;
 }
 
-h1 {
+h1, h2, h3, h4 {
   font-size: 1.5rem;
+  color: #3f1622;
+  font-weight: bold;
 }
 
 header, h1, h2, h3, h4 {
@@ -17,11 +19,6 @@ header, h1, h2, h3, h4 {
 
 img {
   width: 100%;
-}
-
-h2, h3, h4 {
-  font-size: 1.25rem;
-  color: #3f1622;
 }
 
 nav ol li {
@@ -43,10 +40,6 @@ figcaption {
 blockquote {
   font-size: 1.5rem;
   font-style: italic;
-}
-
-blockquote b {
-  text-weight: normal
 }
 
 cite {

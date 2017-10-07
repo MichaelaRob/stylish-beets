@@ -6,7 +6,7 @@ html {
   font-weight: normal;
 }
 
-header {
+h1 {
   font-size: 1.5rem;
 }
 
@@ -19,7 +19,7 @@ img {
   width: 100%;
 }
 
-h1, h2, h3, h4 {
+h2, h3, h4 {
   font-size: 1.25rem;
   color: #3f1622;
 }
@@ -43,6 +43,10 @@ figcaption {
 blockquote {
   font-size: 1.5rem;
   font-style: italic;
+}
+
+blockquote b {
+  text-weight: normal
 }
 
 cite {

@@ -7,7 +7,7 @@ html {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   color: #3f1622;
   font-weight: bold;
 }
@@ -17,7 +17,8 @@ header, h1, h2, h3, h4 {
 }
 
 p {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
+  font-size: .8rem;
 }
 
 img {
@@ -25,20 +26,25 @@ img {
 }
 
 a {
-  color: #8f2440
+  color: #8f2440;
+  text-decoration: none;
 }
 
 footer {
   font-size: .8rem;
 }
 
+ul li {
+  list-style-type: circle;
+}
+
+ol li {
+  list-style-type: lower-greek;
+}
+
 nav ol li {
   list-style-type: none;
   font-size: 1.125rem;
-}
-
-ul li {
-  list-style-type: circle;
 }
 
 h2 {
@@ -50,8 +56,8 @@ h2 {
 }
 
 a:link {
-    text-decoration: none;
-    font-weight: bold;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 figcaption {
@@ -70,10 +76,6 @@ dt {
 blockquote {
   font-size: 1.5rem;
   font-style: italic;
-}
-
-ol li {
-  list-style-type: lower-greek;
 }
 
 a:hover {
